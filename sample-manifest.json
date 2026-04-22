@@ -1,12 +1,12 @@
 {
-  "export_job_id": "1f41e9ee-0849-487e-9391-0213d27eb88e",
+  "export_job_id": "f8525891-9d63-4b0d-91d7-072e6e7149c8",
   "id_short": 591073,
-  "published_at": "2026-04-17T19:42:29Z",
+  "published_at": "2026-04-22T07:42:20Z",
   "repo_name": "all-restaurants-in-savannah-metro-georgia-us-sample-591073",
   "sample_asset_name": "beamstation_591073_restaurants-us-savannahga_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/591073/beamstation_591073_restaurants-us-savannahga_SAMPLE_DIST.csv",
-  "sample_records": 128,
-  "sample_sha256": "7704794b677a6285ca316439744012e1379c5b2e7cc368f409afb76a68bbf2d9",
-  "sample_size_bytes": 507336,
-  "total_records": 1287
+  "sample_records": 107,
+  "sample_sha256": "2aff7af1b0128ff14c3f9eff88a23f8394616079f17043e637713e14a70b977f",
+  "sample_size_bytes": 423928,
+  "total_records": 1077
 }
